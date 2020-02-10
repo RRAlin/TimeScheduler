@@ -10,5 +10,9 @@ sleep time based on your personal profile.
 ![Image 1](https://raw.githubusercontent.com/RRAlin/TimeScheduler/master/LogIn.JPG)
 
 * eHealth.php contains the logic behind the application as well as the main user interface
+
+![Image 2](https://raw.githubusercontent.com/RRAlin/TimeScheduler/master/Main%20User%20interface.JPG)
+
 * Profile.php is a simple profile page asigned to each user
 
+![Image 3](https://raw.githubusercontent.com/RRAlin/TimeScheduler/master/Profile.JPG)
