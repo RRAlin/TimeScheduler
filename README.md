@@ -1,4 +1,4 @@
-# TimeScheduler
+# **TimeScheduler**
 
 * This is just a simple attempt at building a personal sheduler that calculates the ideal 
 sleep time based on your personal profile. 
